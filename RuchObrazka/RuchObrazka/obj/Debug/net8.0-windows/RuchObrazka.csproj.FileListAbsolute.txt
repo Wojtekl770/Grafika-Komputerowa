@@ -1,0 +1,16 @@
+C:\Users\Wojte\Desktop\studia\semestr 5\Grafika Komputerowa\RuchObrazka\RuchObrazka\bin\Debug\net8.0-windows\RuchObrazka.exe
+C:\Users\Wojte\Desktop\studia\semestr 5\Grafika Komputerowa\RuchObrazka\RuchObrazka\bin\Debug\net8.0-windows\RuchObrazka.deps.json
+C:\Users\Wojte\Desktop\studia\semestr 5\Grafika Komputerowa\RuchObrazka\RuchObrazka\bin\Debug\net8.0-windows\RuchObrazka.runtimeconfig.json
+C:\Users\Wojte\Desktop\studia\semestr 5\Grafika Komputerowa\RuchObrazka\RuchObrazka\bin\Debug\net8.0-windows\RuchObrazka.dll
+C:\Users\Wojte\Desktop\studia\semestr 5\Grafika Komputerowa\RuchObrazka\RuchObrazka\bin\Debug\net8.0-windows\RuchObrazka.pdb
+C:\Users\Wojte\Desktop\studia\semestr 5\Grafika Komputerowa\RuchObrazka\RuchObrazka\obj\Debug\net8.0-windows\RuchObrazka.Form1.resources
+C:\Users\Wojte\Desktop\studia\semestr 5\Grafika Komputerowa\RuchObrazka\RuchObrazka\obj\Debug\net8.0-windows\RuchObrazka.csproj.GenerateResource.cache
+C:\Users\Wojte\Desktop\studia\semestr 5\Grafika Komputerowa\RuchObrazka\RuchObrazka\obj\Debug\net8.0-windows\RuchObrazka.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Wojte\Desktop\studia\semestr 5\Grafika Komputerowa\RuchObrazka\RuchObrazka\obj\Debug\net8.0-windows\RuchObrazka.AssemblyInfoInputs.cache
+C:\Users\Wojte\Desktop\studia\semestr 5\Grafika Komputerowa\RuchObrazka\RuchObrazka\obj\Debug\net8.0-windows\RuchObrazka.AssemblyInfo.cs
+C:\Users\Wojte\Desktop\studia\semestr 5\Grafika Komputerowa\RuchObrazka\RuchObrazka\obj\Debug\net8.0-windows\RuchObrazka.csproj.CoreCompileInputs.cache
+C:\Users\Wojte\Desktop\studia\semestr 5\Grafika Komputerowa\RuchObrazka\RuchObrazka\obj\Debug\net8.0-windows\RuchObrazka.dll
+C:\Users\Wojte\Desktop\studia\semestr 5\Grafika Komputerowa\RuchObrazka\RuchObrazka\obj\Debug\net8.0-windows\refint\RuchObrazka.dll
+C:\Users\Wojte\Desktop\studia\semestr 5\Grafika Komputerowa\RuchObrazka\RuchObrazka\obj\Debug\net8.0-windows\RuchObrazka.pdb
+C:\Users\Wojte\Desktop\studia\semestr 5\Grafika Komputerowa\RuchObrazka\RuchObrazka\obj\Debug\net8.0-windows\RuchObrazka.genruntimeconfig.cache
+C:\Users\Wojte\Desktop\studia\semestr 5\Grafika Komputerowa\RuchObrazka\RuchObrazka\obj\Debug\net8.0-windows\ref\RuchObrazka.dll
