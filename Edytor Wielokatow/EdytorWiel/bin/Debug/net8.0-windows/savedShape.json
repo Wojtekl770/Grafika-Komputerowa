@@ -1,0 +1,231 @@
+{
+  "Punkty": [
+    {
+      "Position": {
+        "IsEmpty": false,
+        "X": 412,
+        "Y": 204
+      },
+      "IsHighlighted": false,
+      "isMoving": false,
+      "isControl": false,
+      "contingency": 2
+    },
+    {
+      "Position": {
+        "IsEmpty": false,
+        "X": 412,
+        "Y": 369
+      },
+      "IsHighlighted": false,
+      "isMoving": false,
+      "isControl": false,
+      "contingency": 2
+    },
+    {
+      "Position": {
+        "IsEmpty": false,
+        "X": 284,
+        "Y": 332
+      },
+      "IsHighlighted": false,
+      "isMoving": false,
+      "isControl": false,
+      "contingency": 2
+    },
+    {
+      "Position": {
+        "IsEmpty": false,
+        "X": 284,
+        "Y": 215
+      },
+      "IsHighlighted": false,
+      "isMoving": false,
+      "isControl": false,
+      "contingency": 2
+    },
+    {
+      "Position": {
+        "IsEmpty": false,
+        "X": 424,
+        "Y": 105
+      },
+      "IsHighlighted": false,
+      "isMoving": false,
+      "isControl": false,
+      "contingency": 2
+    }
+  ],
+  "Krawedzie": [
+    {
+      "Start": {
+        "Position": {
+          "IsEmpty": false,
+          "X": 412,
+          "Y": 204
+        },
+        "IsHighlighted": false,
+        "isMoving": false,
+        "isControl": false,
+        "contingency": 2
+      },
+      "End": {
+        "Position": {
+          "IsEmpty": false,
+          "X": 412,
+          "Y": 369
+        },
+        "IsHighlighted": false,
+        "isMoving": false,
+        "isControl": false,
+        "contingency": 2
+      },
+      "IsBezier": false,
+      "ControlPoint1": null,
+      "ControlPoint2": null,
+      "IsHighlighted": false,
+      "Constraint": 2,
+      "Length": null
+    },
+    {
+      "Start": {
+        "Position": {
+          "IsEmpty": false,
+          "X": 412,
+          "Y": 369
+        },
+        "IsHighlighted": false,
+        "isMoving": false,
+        "isControl": false,
+        "contingency": 2
+      },
+      "End": {
+        "Position": {
+          "IsEmpty": false,
+          "X": 284,
+          "Y": 332
+        },
+        "IsHighlighted": false,
+        "isMoving": false,
+        "isControl": false,
+        "contingency": 2
+      },
+      "IsBezier": false,
+      "ControlPoint1": null,
+      "ControlPoint2": null,
+      "IsHighlighted": false,
+      "Constraint": 0,
+      "Length": null
+    },
+    {
+      "Start": {
+        "Position": {
+          "IsEmpty": false,
+          "X": 284,
+          "Y": 332
+        },
+        "IsHighlighted": false,
+        "isMoving": false,
+        "isControl": false,
+        "contingency": 2
+      },
+      "End": {
+        "Position": {
+          "IsEmpty": false,
+          "X": 284,
+          "Y": 215
+        },
+        "IsHighlighted": false,
+        "isMoving": false,
+        "isControl": false,
+        "contingency": 2
+      },
+      "IsBezier": true,
+      "ControlPoint1": {
+        "Position": {
+          "IsEmpty": false,
+          "X": 242,
+          "Y": 320
+        },
+        "IsHighlighted": false,
+        "isMoving": false,
+        "isControl": true,
+        "contingency": 2
+      },
+      "ControlPoint2": {
+        "Position": {
+          "IsEmpty": false,
+          "X": 238,
+          "Y": 251
+        },
+        "IsHighlighted": false,
+        "isMoving": false,
+        "isControl": true,
+        "contingency": 2
+      },
+      "IsHighlighted": false,
+      "Constraint": 0,
+      "Length": null
+    },
+    {
+      "Start": {
+        "Position": {
+          "IsEmpty": false,
+          "X": 284,
+          "Y": 215
+        },
+        "IsHighlighted": false,
+        "isMoving": false,
+        "isControl": false,
+        "contingency": 2
+      },
+      "End": {
+        "Position": {
+          "IsEmpty": false,
+          "X": 424,
+          "Y": 105
+        },
+        "IsHighlighted": false,
+        "isMoving": false,
+        "isControl": false,
+        "contingency": 2
+      },
+      "IsBezier": false,
+      "ControlPoint1": null,
+      "ControlPoint2": null,
+      "IsHighlighted": false,
+      "Constraint": 0,
+      "Length": null
+    },
+    {
+      "Start": {
+        "Position": {
+          "IsEmpty": false,
+          "X": 424,
+          "Y": 105
+        },
+        "IsHighlighted": false,
+        "isMoving": false,
+        "isControl": false,
+        "contingency": 2
+      },
+      "End": {
+        "Position": {
+          "IsEmpty": false,
+          "X": 412,
+          "Y": 204
+        },
+        "IsHighlighted": false,
+        "isMoving": false,
+        "isControl": false,
+        "contingency": 2
+      },
+      "IsBezier": false,
+      "ControlPoint1": null,
+      "ControlPoint2": null,
+      "IsHighlighted": false,
+      "Constraint": 3,
+      "Length": 100
+    }
+  ]
+}

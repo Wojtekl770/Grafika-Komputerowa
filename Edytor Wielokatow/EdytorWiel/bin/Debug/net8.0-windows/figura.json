@@ -1,0 +1,370 @@
+{
+  "Punkty": [
+    {
+      "X": 419,
+      "Y": 370,
+      "IsControl": false,
+      "Contingency": 2
+    },
+    {
+      "X": 479,
+      "Y": 403,
+      "IsControl": false,
+      "Contingency": 2
+    },
+    {
+      "X": 527,
+      "Y": 376,
+      "IsControl": false,
+      "Contingency": 2
+    },
+    {
+      "X": 531,
+      "Y": 328,
+      "IsControl": false,
+      "Contingency": 2
+    },
+    {
+      "X": 499,
+      "Y": 300,
+      "IsControl": false,
+      "Contingency": 2
+    },
+    {
+      "X": 434,
+      "Y": 290,
+      "IsControl": false,
+      "Contingency": 2
+    },
+    {
+      "X": 449,
+      "Y": 104,
+      "IsControl": false,
+      "Contingency": 2
+    },
+    {
+      "X": 386,
+      "Y": 84,
+      "IsControl": false,
+      "Contingency": 2
+    },
+    {
+      "X": 357,
+      "Y": 115,
+      "IsControl": false,
+      "Contingency": 2
+    },
+    {
+      "X": 340,
+      "Y": 258,
+      "IsControl": false,
+      "Contingency": 2
+    },
+    {
+      "X": 280,
+      "Y": 291,
+      "IsControl": false,
+      "Contingency": 2
+    },
+    {
+      "X": 264,
+      "Y": 344,
+      "IsControl": false,
+      "Contingency": 2
+    },
+    {
+      "X": 304,
+      "Y": 373,
+      "IsControl": false,
+      "Contingency": 2
+    },
+    {
+      "X": 348,
+      "Y": 367,
+      "IsControl": false,
+      "Contingency": 2
+    }
+  ],
+  "Krawedzie": [
+    {
+      "Start": {
+        "X": 419,
+        "Y": 370,
+        "IsControl": false,
+        "Contingency": 2
+      },
+      "End": {
+        "X": 479,
+        "Y": 403,
+        "IsControl": false,
+        "Contingency": 2
+      },
+      "IsBezier": false,
+      "ControlPoint1": null,
+      "ControlPoint2": null,
+      "Constraint": 0,
+      "Length": null,
+      "UseBresenham": false
+    },
+    {
+      "Start": {
+        "X": 479,
+        "Y": 403,
+        "IsControl": false,
+        "Contingency": 2
+      },
+      "End": {
+        "X": 527,
+        "Y": 376,
+        "IsControl": false,
+        "Contingency": 2
+      },
+      "IsBezier": false,
+      "ControlPoint1": null,
+      "ControlPoint2": null,
+      "Constraint": 0,
+      "Length": null,
+      "UseBresenham": false
+    },
+    {
+      "Start": {
+        "X": 527,
+        "Y": 376,
+        "IsControl": false,
+        "Contingency": 2
+      },
+      "End": {
+        "X": 531,
+        "Y": 328,
+        "IsControl": false,
+        "Contingency": 2
+      },
+      "IsBezier": false,
+      "ControlPoint1": null,
+      "ControlPoint2": null,
+      "Constraint": 0,
+      "Length": null,
+      "UseBresenham": false
+    },
+    {
+      "Start": {
+        "X": 531,
+        "Y": 328,
+        "IsControl": false,
+        "Contingency": 2
+      },
+      "End": {
+        "X": 499,
+        "Y": 300,
+        "IsControl": false,
+        "Contingency": 2
+      },
+      "IsBezier": false,
+      "ControlPoint1": null,
+      "ControlPoint2": null,
+      "Constraint": 0,
+      "Length": null,
+      "UseBresenham": false
+    },
+    {
+      "Start": {
+        "X": 499,
+        "Y": 300,
+        "IsControl": false,
+        "Contingency": 2
+      },
+      "End": {
+        "X": 434,
+        "Y": 290,
+        "IsControl": false,
+        "Contingency": 2
+      },
+      "IsBezier": false,
+      "ControlPoint1": null,
+      "ControlPoint2": null,
+      "Constraint": 0,
+      "Length": null,
+      "UseBresenham": false
+    },
+    {
+      "Start": {
+        "X": 434,
+        "Y": 290,
+        "IsControl": false,
+        "Contingency": 2
+      },
+      "End": {
+        "X": 449,
+        "Y": 104,
+        "IsControl": false,
+        "Contingency": 2
+      },
+      "IsBezier": false,
+      "ControlPoint1": null,
+      "ControlPoint2": null,
+      "Constraint": 0,
+      "Length": null,
+      "UseBresenham": false
+    },
+    {
+      "Start": {
+        "X": 449,
+        "Y": 104,
+        "IsControl": false,
+        "Contingency": 2
+      },
+      "End": {
+        "X": 386,
+        "Y": 84,
+        "IsControl": false,
+        "Contingency": 2
+      },
+      "IsBezier": false,
+      "ControlPoint1": null,
+      "ControlPoint2": null,
+      "Constraint": 0,
+      "Length": null,
+      "UseBresenham": false
+    },
+    {
+      "Start": {
+        "X": 386,
+        "Y": 84,
+        "IsControl": false,
+        "Contingency": 2
+      },
+      "End": {
+        "X": 357,
+        "Y": 115,
+        "IsControl": false,
+        "Contingency": 2
+      },
+      "IsBezier": false,
+      "ControlPoint1": null,
+      "ControlPoint2": null,
+      "Constraint": 0,
+      "Length": null,
+      "UseBresenham": false
+    },
+    {
+      "Start": {
+        "X": 357,
+        "Y": 115,
+        "IsControl": false,
+        "Contingency": 2
+      },
+      "End": {
+        "X": 340,
+        "Y": 258,
+        "IsControl": false,
+        "Contingency": 2
+      },
+      "IsBezier": false,
+      "ControlPoint1": null,
+      "ControlPoint2": null,
+      "Constraint": 0,
+      "Length": null,
+      "UseBresenham": false
+    },
+    {
+      "Start": {
+        "X": 340,
+        "Y": 258,
+        "IsControl": false,
+        "Contingency": 2
+      },
+      "End": {
+        "X": 280,
+        "Y": 291,
+        "IsControl": false,
+        "Contingency": 2
+      },
+      "IsBezier": false,
+      "ControlPoint1": null,
+      "ControlPoint2": null,
+      "Constraint": 0,
+      "Length": null,
+      "UseBresenham": false
+    },
+    {
+      "Start": {
+        "X": 280,
+        "Y": 291,
+        "IsControl": false,
+        "Contingency": 2
+      },
+      "End": {
+        "X": 264,
+        "Y": 344,
+        "IsControl": false,
+        "Contingency": 2
+      },
+      "IsBezier": false,
+      "ControlPoint1": null,
+      "ControlPoint2": null,
+      "Constraint": 0,
+      "Length": null,
+      "UseBresenham": false
+    },
+    {
+      "Start": {
+        "X": 264,
+        "Y": 344,
+        "IsControl": false,
+        "Contingency": 2
+      },
+      "End": {
+        "X": 304,
+        "Y": 373,
+        "IsControl": false,
+        "Contingency": 2
+      },
+      "IsBezier": false,
+      "ControlPoint1": null,
+      "ControlPoint2": null,
+      "Constraint": 0,
+      "Length": null,
+      "UseBresenham": false
+    },
+    {
+      "Start": {
+        "X": 304,
+        "Y": 373,
+        "IsControl": false,
+        "Contingency": 2
+      },
+      "End": {
+        "X": 348,
+        "Y": 367,
+        "IsControl": false,
+        "Contingency": 2
+      },
+      "IsBezier": false,
+      "ControlPoint1": null,
+      "ControlPoint2": null,
+      "Constraint": 0,
+      "Length": null,
+      "UseBresenham": false
+    },
+    {
+      "Start": {
+        "X": 348,
+        "Y": 367,
+        "IsControl": false,
+        "Contingency": 2
+      },
+      "End": {
+        "X": 419,
+        "Y": 370,
+        "IsControl": false,
+        "Contingency": 2
+      },
+      "IsBezier": false,
+      "ControlPoint1": null,
+      "ControlPoint2": null,
+      "Constraint": 0,
+      "Length": null,
+      "UseBresenham": false
+    }
+  ]
+}
