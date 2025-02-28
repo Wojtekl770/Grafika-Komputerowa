@@ -1,0 +1,18 @@
+﻿  main.cpp
+C:\Users\Wojte\Desktop\studia\semestr 5\Grafika Komputerowa\Projekt4\App3D\App3D\main.cpp(229,22): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Wojte\Desktop\studia\semestr 5\Grafika Komputerowa\Projekt4\App3D\App3D\main.cpp(230,21): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Wojte\Desktop\studia\semestr 5\Grafika Komputerowa\Projekt4\App3D\App3D\main.cpp(234,31): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Wojte\Desktop\studia\semestr 5\Grafika Komputerowa\Projekt4\App3D\App3D\main.cpp(277,26): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Wojte\Desktop\studia\semestr 5\Grafika Komputerowa\Projekt4\App3D\App3D\main.cpp(281,30): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Wojte\Desktop\studia\semestr 5\Grafika Komputerowa\Projekt4\App3D\App3D\main.cpp(653,28): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Wojte\Desktop\studia\semestr 5\Grafika Komputerowa\Projekt4\App3D\App3D\main.cpp(711,56): warning C4267: 'argument': conversion from 'size_t' to 'GLsizei', possible loss of data
+C:\Users\Wojte\Desktop\studia\semestr 5\Grafika Komputerowa\Projekt4\App3D\App3D\main.cpp(720,57): warning C4267: 'argument': conversion from 'size_t' to 'GLsizei', possible loss of data
+C:\Users\Wojte\Desktop\studia\semestr 5\Grafika Komputerowa\Projekt4\App3D\App3D\main.cpp(763,55): warning C4267: 'argument': conversion from 'size_t' to 'GLsizei', possible loss of data
+C:\Users\Wojte\Desktop\studia\semestr 5\Grafika Komputerowa\Projekt4\App3D\App3D\main.cpp(770,56): warning C4267: 'argument': conversion from 'size_t' to 'GLsizei', possible loss of data
+C:\Users\Wojte\Desktop\studia\semestr 5\Grafika Komputerowa\Projekt4\App3D\App3D\main.cpp(930,17): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Wojte\Desktop\studia\semestr 5\Grafika Komputerowa\Projekt4\App3D\App3D\main.cpp(931,17): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Wojte\Desktop\studia\semestr 5\Grafika Komputerowa\Projekt4\App3D\App3D\main.cpp(935,19): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Wojte\Desktop\studia\semestr 5\Grafika Komputerowa\Projekt4\App3D\App3D\main.cpp(936,19): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Wojte\Desktop\studia\semestr 5\Grafika Komputerowa\Projekt4\App3D\App3D\main.cpp(937,13): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Wojte\Desktop\studia\semestr 5\Grafika Komputerowa\Projekt4\App3D\App3D\main.cpp(938,13): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  App3D.vcxproj -> C:\Users\Wojte\Desktop\studia\semestr 5\Grafika Komputerowa\Projekt4\App3D\x64\Debug\App3D.exe
