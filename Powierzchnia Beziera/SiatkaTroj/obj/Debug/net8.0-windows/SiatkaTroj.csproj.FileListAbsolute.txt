@@ -1,0 +1,16 @@
+C:\Users\Wojte\Desktop\studia\semestr 5\Grafika Komputerowa\SiatkaTroj\SiatkaTroj\bin\Debug\net8.0-windows\SiatkaTroj.exe
+C:\Users\Wojte\Desktop\studia\semestr 5\Grafika Komputerowa\SiatkaTroj\SiatkaTroj\bin\Debug\net8.0-windows\SiatkaTroj.deps.json
+C:\Users\Wojte\Desktop\studia\semestr 5\Grafika Komputerowa\SiatkaTroj\SiatkaTroj\bin\Debug\net8.0-windows\SiatkaTroj.runtimeconfig.json
+C:\Users\Wojte\Desktop\studia\semestr 5\Grafika Komputerowa\SiatkaTroj\SiatkaTroj\bin\Debug\net8.0-windows\SiatkaTroj.dll
+C:\Users\Wojte\Desktop\studia\semestr 5\Grafika Komputerowa\SiatkaTroj\SiatkaTroj\bin\Debug\net8.0-windows\SiatkaTroj.pdb
+C:\Users\Wojte\Desktop\studia\semestr 5\Grafika Komputerowa\SiatkaTroj\SiatkaTroj\obj\Debug\net8.0-windows\SiatkaTroj.Form1.resources
+C:\Users\Wojte\Desktop\studia\semestr 5\Grafika Komputerowa\SiatkaTroj\SiatkaTroj\obj\Debug\net8.0-windows\SiatkaTroj.csproj.GenerateResource.cache
+C:\Users\Wojte\Desktop\studia\semestr 5\Grafika Komputerowa\SiatkaTroj\SiatkaTroj\obj\Debug\net8.0-windows\SiatkaTroj.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Wojte\Desktop\studia\semestr 5\Grafika Komputerowa\SiatkaTroj\SiatkaTroj\obj\Debug\net8.0-windows\SiatkaTroj.AssemblyInfoInputs.cache
+C:\Users\Wojte\Desktop\studia\semestr 5\Grafika Komputerowa\SiatkaTroj\SiatkaTroj\obj\Debug\net8.0-windows\SiatkaTroj.AssemblyInfo.cs
+C:\Users\Wojte\Desktop\studia\semestr 5\Grafika Komputerowa\SiatkaTroj\SiatkaTroj\obj\Debug\net8.0-windows\SiatkaTroj.csproj.CoreCompileInputs.cache
+C:\Users\Wojte\Desktop\studia\semestr 5\Grafika Komputerowa\SiatkaTroj\SiatkaTroj\obj\Debug\net8.0-windows\SiatkaTroj.dll
+C:\Users\Wojte\Desktop\studia\semestr 5\Grafika Komputerowa\SiatkaTroj\SiatkaTroj\obj\Debug\net8.0-windows\refint\SiatkaTroj.dll
+C:\Users\Wojte\Desktop\studia\semestr 5\Grafika Komputerowa\SiatkaTroj\SiatkaTroj\obj\Debug\net8.0-windows\SiatkaTroj.pdb
+C:\Users\Wojte\Desktop\studia\semestr 5\Grafika Komputerowa\SiatkaTroj\SiatkaTroj\obj\Debug\net8.0-windows\SiatkaTroj.genruntimeconfig.cache
+C:\Users\Wojte\Desktop\studia\semestr 5\Grafika Komputerowa\SiatkaTroj\SiatkaTroj\obj\Debug\net8.0-windows\ref\SiatkaTroj.dll
